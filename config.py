@@ -1,0 +1,5 @@
+DATABASE = 'db.db'
+DEBUG = True
+SECRET_KEY = 'secret key'
+USERNAME = 'JOHANNES'
+PASSWORD = 'PASSWORD'
